@@ -3,8 +3,8 @@
 -- FICHIER : 03_data_dictionary.sql
 -- DESCRIPTION : Dictionnaire des données + Champs d'analyse
 --               définis par dashboard
--- AUTEUR : [Ton nom]
--- DATE : 2024
+-- AUTEUR : JUSTE HADASSA MALANDA NYEKELE
+-- DATE : 2026
 -- ============================================================
 
 
