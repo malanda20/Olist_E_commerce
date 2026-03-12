@@ -4,8 +4,8 @@
 -- DASHBOARD : 1 — Sales Performance
 -- DESCRIPTION : Requêtes analytiques sur les ventes,
 --               tendances et catégories de produits
--- AUTEUR : [Ton nom]
--- DATE : 2024
+-- AUTEUR : JUSTE HADASSA MALANDA NYEKELE
+-- DATE : 2026
 -- ============================================================
 -- TABLES UTILISÉES :
 --   orders                      → statut, dates
