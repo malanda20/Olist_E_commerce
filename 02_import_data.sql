@@ -2,8 +2,8 @@
 -- PROJET : Olist E-Commerce Analytics
 -- FICHIER : 02_import_data.sql
 -- DESCRIPTION : Import des fichiers CSV dans PostgreSQL
--- AUTEUR : [Ton nom]
--- DATE : 2024
+-- AUTEUR : JUSTE HADASSA MALANDA NYEKELE
+-- DATE : 2026
 -- ============================================================
 -- PRÉREQUIS :
 --   - Avoir exécuté 01_create_tables.sql
