@@ -4,8 +4,8 @@
 -- DASHBOARD : 3 — Customer Experience
 -- DESCRIPTION : Satisfaction client, analyse des avis,
 --               corrélation délais/notes, segmentation RFM
--- AUTEUR : [Ton nom]
--- DATE : 2024
+-- AUTEUR : JUSTE HADASSA MALANDA NYEKELE
+-- DATE : 2026
 -- ============================================================
 -- TABLES UTILISÉES :
 --   order_reviews               → notes et commentaires
