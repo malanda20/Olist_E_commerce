@@ -4,8 +4,8 @@
 -- DASHBOARD : 2 — Operations & Logistics
 -- DESCRIPTION : Requêtes analytiques sur les délais de
 --               livraison, statuts et performance vendeurs
--- AUTEUR : [Ton nom]
--- DATE : 2024
+-- AUTEUR : JUSTE HADASSA MALANDA NYEKELE
+-- DATE : 2026
 -- ============================================================
 -- TABLES UTILISÉES :
 --   orders      → statuts, timestamps livraison
