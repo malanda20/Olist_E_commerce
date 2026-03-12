@@ -2,8 +2,8 @@
 -- PROJET : Olist E-Commerce Analytics
 -- FICHIER : 01_create_tables.sql
 -- DESCRIPTION : Création de la base de données et des tables
--- AUTEUR : [Ton nom]
--- DATE : 2024
+-- AUTEUR : JUSTE HADASSA MALANDA NYEKELE
+-- DATE : 2026
 -- ============================================================
 -- ORDRE D'EXÉCUTION OBLIGATOIRE :
 -- Les tables sans dépendances d'abord (pas de clé étrangère),
